@@ -1,6 +1,7 @@
 ---
-title: "My own RMarkdown file"
+title: "Changes to github"
 output: html_document
 ---
 
 This is my first RMarkdown file tracked by Git!!
+Extra line without information
