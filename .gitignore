@@ -1,5 +1,5 @@
 #files exercise 3.2b
-data/*.xls
+data/*.xlsx
 
 # History files
 .Rhistory
