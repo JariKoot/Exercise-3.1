@@ -5,8 +5,12 @@ output: html_document
 
 This is my first RMarkdown file tracked by Git!!
 Extra line without information.
+<<<<<<< HEAD
 Test
 
 
 
 testesst
+=======
+test
+>>>>>>> dc4e8211a3a3de0ba38893de9ee4c8fd1f916b52
