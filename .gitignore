@@ -1,5 +1,5 @@
 #files exercise 3.2b
-data/
+data/**
 
 # History files
 .Rhistory
