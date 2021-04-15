@@ -1,6 +1,6 @@
 #files exercise 3.2b
 
-
+data/*.xlsx
 # History files
 .Rhistory
 .Rapp.history
